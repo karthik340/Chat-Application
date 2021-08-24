@@ -1,5 +1,5 @@
-Chat server is built using C.
-Chat client is built using JavaSwing.
+Chat server is built using C.<br />
+Chat client is built using JavaSwing.<br />
 First run the server program and then client.
 
 Client can be run using eclipse or other IDE.
